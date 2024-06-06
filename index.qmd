@@ -1,0 +1,38 @@
+---
+title: "Andrew J. Liang"
+about: 
+  image: portrait.jpeg
+  template: solana
+  image-shape: rectangle
+  image-width: 20em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/andrew-j-liang/
+    - icon: github
+      text: GitHub
+      href: https://github.com/andrewjliang
+    - icon: envelope
+      text: Email
+      href: mailto:andrewliang@ucsb.edu
+toc: false
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+## Welcome to my website!
+
+I am a pre-Political Science major at UCSB, studying urban and judicial politics. I also enjoy learning about statistics and data visualization. Outside of school, I enjoy playing video games, competing in pickleball tournaments and leagues, photography, following the adventures (and misadventures) of the Oakland Athletics, and using dark mode for every application whenever possible.
+
+## Education
+
+### University of California, Santa Barbara
+**B.A., Political Science (Jun. 2027)**
+

@@ -1,0 +1,11 @@
+---
+title: Photography
+description: A collection of my photographs.
+author: Andrew Liang
+date: 6/5/2024
+categories: [hobbies, photography]
+---
+
+I've also recently gotten into photography thanks to a high school digital photography course I took in my senior year. One of the unfortunate consequences of moving to UCSB is that I no longer have my own camera to use; nevertheless, Santa Barbara as a whole is extremely photogenic and I plan to take more pictures once I am able to obtain a new camera in the future.
+
+Here are some pictures I took as part of my digital photography course:

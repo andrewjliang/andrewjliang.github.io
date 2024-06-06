@@ -1,0 +1,27 @@
+---
+title: "About"
+description: A little more about me!
+author: Andrew Liang
+date: 6/5/2024
+categories: [about, personal]
+bibliography: references.bib
+---
+
+I am a first-year Political Science student at UCSB, studying urban and judicial politics. Some of my favorite classes taken so far include:
+
+-   HIST 142AL - American Legal and Constitutional History
+
+-   POL S 106AD - American Political Development, and
+
+-   ENV S 193DS - Statistics for Environmental Studies
+
+All of these courses touch upon my research interests, and my instructors have all been influential towards the standards I set for my own work.
+
+As a kid, I had multiple interests:
+
+-   riding the [Bay Area Rapid Transit (BART)](bart.gov) system (and maybe becoming a train operator for it someday),
+-   computers,
+-   baseball, and
+-   becoming the President of the United States.
+
+I gave up the first and third options pretty quickly, because I realized that (1) constantly asking your parents to take you on weekly rides on BART wasn't an economically or academically smart choice when I turned 5, and (2) becoming the President of the United States opens you to new challenges that I thought I would not take well. I gave up studying computers after I realized I barely understood @computer1994. Finally, my fastball in fifth grade was clocked in at under 40 miles per hour. All of

@@ -1,0 +1,30 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/visualization/index.html",
+      "/posts/photography/index.html",
+      "/posts/about/index.html"
+    ]
+  },
+  {
+    "listing": "/posts/photography/index.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/visualization/index.html",
+    "items": []
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/posts/about/index.html",
+      "/posts/visualization/index.html",
+      "/posts/photography/index.html"
+    ]
+  },
+  {
+    "listing": "/posts/about/index.html",
+    "items": []
+  }
+]

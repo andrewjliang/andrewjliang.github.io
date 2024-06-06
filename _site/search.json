@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Andrew J. Liang",
+    "section": "",
+    "text": "I am a pre-Political Science major at UCSB, studying urban and judicial politics. I also enjoy learning about statistics and data visualization. Outside of school, I enjoy playing video games, competing in pickleball tournaments and leagues, photography, following the adventures (and misadventures) of the Oakland Athletics, and using dark mode for every application whenever possible."
+  },
+  {
+    "objectID": "index.html#welcome-to-my-website",
+    "href": "index.html#welcome-to-my-website",
+    "title": "Andrew J. Liang",
+    "section": "",
+    "text": "I am a pre-Political Science major at UCSB, studying urban and judicial politics. I also enjoy learning about statistics and data visualization. Outside of school, I enjoy playing video games, competing in pickleball tournaments and leagues, photography, following the adventures (and misadventures) of the Oakland Athletics, and using dark mode for every application whenever possible."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Andrew J. Liang",
+    "section": "Education",
+    "text": "Education\n\nUniversity of California, Santa Barbara\nB.A., Political Science (Jun. 2027)"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a first-year Political Science student at UCSB, studying urban and judicial politics. Some of my favorite classes taken so far include:\n\nHIST 142AL - American Legal and Constitutional History\nPOL S 106AD - American Political Development, and\nENV S 193DS - Statistics for Environmental Studies\n\nAll of these courses touch upon my research interests, and my instructors have all been influential towards the standards I set for my own work.\nAs a kid, I had multiple interests:\n\nriding the Bay Area Rapid Transit (BART) system (and maybe becoming a train operator for it someday),\ncomputers,\nbaseball, and\nbecoming the President of the United States.\n\nI gave up the first and third options pretty quickly, because I realized that (1) constantly asking your parents to take you on weekly rides on BART wasn’t an economically or academically smart choice when I turned 5, and (2) becoming the President of the United States opens you to new challenges that I thought I would not take well. I gave up studying computers after I realized I barely understood Patterson and Hennessy (1994). Finally, my fastball in fifth grade was clocked in at under 40 miles per hour. All of\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nAbout\n\n\n\n\n\nA little more about me!\n\n\n\n\n\n\nJun 5, 2024\n\n\nAndrew Liang\n\n\n\n\n\n\n  \n\n\n\n\nData Visualization\n\n\n\n\n\nA collection of graphs and maps for my classes!\n\n\n\n\n\n\nJun 5, 2024\n\n\nAndrew Liang\n\n\n\n\n\n\n  \n\n\n\n\nPhotography\n\n\n\n\n\nA collection of my photographs.\n\n\n\n\n\n\nJun 5, 2024\n\n\nAndrew Liang\n\n\n\n\n\n\nNo matching items\n\nReferences\n\nPatterson, David A., and John L. Hennessy. 1994. Computer Organization and Design. Elsevier. https://doi.org/10.1016/c2013-0-08305-3."
+  },
+  {
+    "objectID": "posts/photography/index.html",
+    "href": "posts/photography/index.html",
+    "title": "Photography",
+    "section": "",
+    "text": "I’ve also recently gotten into photography thanks to a high school digital photography course I took in my senior year. One of the unfortunate consequences of moving to UCSB is that I no longer have my own camera to use; nevertheless, Santa Barbara as a whole is extremely photogenic and I plan to take more pictures once I am able to obtain a new camera in the future.\nHere are some pictures I took as part of my digital photography course:\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/visualization/index.html",
+    "href": "posts/visualization/index.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "My favorite assignments in ENV S 193DS all included problems on data visualization. I have especially become indebted to several packages designed by R’s Hadley Wickham, including ggplot2 and ggmap.\nOutside of ENV S 193DS, I have also learned to use the ggmap and sf packages to create informative maps. This knowledge was especially useful for my assignments in POL S 162 - Urban Government and Politics, where several projects involving data collection and analysis were assigned.\n\n\n\nThis map shows the boundaries and area for two Northern California cities, paired in a project investigating the success of their Housing Element submissions to the California Department of Housing and Community Development. The purpose of this map was to illustrate the difference in size between the two cities, which led to different approaches towards plans for new housing units for each city. To create this map, I used several spatial packages, including sf, ggmap, and gridExtra. Shapefiles for the city boundaries and areas were provided under an ArcGIS dataset provided by the California Department of Forestry and Fire Protection. In my final report, I noted that Saratoga’s planned housing development was centered around the northeastern portion of the city, near the Quito Village area. This, in contrast with Piedmont’s decision to spread its planned housing units along the city, resulted in HCD’s ruling that Saratoga’s housing element was non-compliant with state law, even when it had more area for housing development than Piedmont."
+  },
+  {
+    "objectID": "posts/visualization/index.html#why-i-love-data-visualization",
+    "href": "posts/visualization/index.html#why-i-love-data-visualization",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "My favorite assignments in ENV S 193DS all included problems on data visualization. I have especially become indebted to several packages designed by R’s Hadley Wickham, including ggplot2 and ggmap.\nOutside of ENV S 193DS, I have also learned to use the ggmap and sf packages to create informative maps. This knowledge was especially useful for my assignments in POL S 162 - Urban Government and Politics, where several projects involving data collection and analysis were assigned.\n\n\n\nThis map shows the boundaries and area for two Northern California cities, paired in a project investigating the success of their Housing Element submissions to the California Department of Housing and Community Development. The purpose of this map was to illustrate the difference in size between the two cities, which led to different approaches towards plans for new housing units for each city. To create this map, I used several spatial packages, including sf, ggmap, and gridExtra. Shapefiles for the city boundaries and areas were provided under an ArcGIS dataset provided by the California Department of Forestry and Fire Protection. In my final report, I noted that Saratoga’s planned housing development was centered around the northeastern portion of the city, near the Quito Village area. This, in contrast with Piedmont’s decision to spread its planned housing units along the city, resulted in HCD’s ruling that Saratoga’s housing element was non-compliant with state law, even when it had more area for housing development than Piedmont."
+  },
+  {
+    "objectID": "posts/about/index.html",
+    "href": "posts/about/index.html",
+    "title": "About",
+    "section": "",
+    "text": "I was born in Hayward, California, but have lived in neighboring Fremont for much of my life. As a kid, I had multiple interests:\n\nriding the Bay Area Rapid Transit (BART) system (and maybe becoming a train operator for it someday),\ncomputers,\nbaseball, and\nbecoming the President of the United States.\n\nI gave up the first and third options pretty quickly, because I realized that (1) constantly asking your parents to take you on weekly rides on BART wasn’t an economically or academically smart choice when I turned 5, and (2) becoming the President of the United States opens you to new challenges that I thought I would not take well. I gave up studying computers after I realized I barely understood (Patterson and Hennessy 1994). Finally, my fastball in fifth grade was clocked in at under 40 miles per hour. Thus, all of those interests eventually faded from view.\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\nReferences\n\nPatterson, David A., and John L. Hennessy. 1994. Computer Organization and Design. Elsevier. https://doi.org/10.1016/c2013-0-08305-3."
+  }
+]
