@@ -17,7 +17,7 @@ about:
       href: mailto:andrewliang@ucsb.edu
 toc: false
 listing:
-  contents: docs
+  contents: posts
   sort: "date desc"
   type: default
   categories: true

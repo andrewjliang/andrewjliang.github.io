@@ -7,11 +7,8 @@ categories: [about, personal]
 bibliography: references.bib
 ---
 
-I was born in Hayward, California, but have lived in neighboring Fremont for much of my life. As a kid, I had multiple interests:
+I was born in Hayward, California, but have lived in neighboring Fremont for much of my life. As a kid, I was fascinated with riding the [Bay Area Rapid Transit (BART)](bart.gov) system (and maybe becoming a train operator for it someday), computers, baseball, and becoming the President of the United States. Needless to say, none of them are as interesting now as they were in the past. However, one thing in common
 
--   riding the [Bay Area Rapid Transit (BART)](bart.gov) system (and maybe becoming a train operator for it someday),
--   computers,
--   baseball, and
--   becoming the President of the United States.
+In my spare time, I like following the esports scene (especially for games like *Counter-Strike 2* or *VALORANT*), reading non-fiction books, and spending more money on pickleball rackets and balls, while my rating continues to stagnate at 3.5. At home, the stores I like to visit include IT'SUGAR, the Razer store, and Half-Price Books.
 
-I gave up the first and third options pretty quickly, because I realized that (1) constantly asking your parents to take you on weekly rides on BART wasn't an economically or academically smart choice when I turned 5, and (2) becoming the President of the United States opens you to new challenges that I thought I would not take well. I gave up studying computers after I realized I barely understood [@computer1994]. Finally, my fastball in fifth grade was clocked in at under 40 miles per hour. Thus, all of those interests eventually faded from view.
+![A picture of me in front of my favorite store.](IMG_9837.jpeg){width="376"}

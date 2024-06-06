@@ -7,16 +7,16 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - "docs/visualization/index.qmd"
-      - "docs/photography/index.qmd"
-      - "docs/about/index.qmd"
+      - "posts/visualization/index.qmd"
+      - "posts/photography/index.qmd"
+      - "posts/about/index.qmd"
 format:
   html:
     theme: minty2.scss
     css: styles.css
 
 listing:
-  contents: "docs/*/index.qmd"
+  contents: "posts/*/index.qmd"
 
 
 
