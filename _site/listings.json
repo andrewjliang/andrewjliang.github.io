@@ -2,9 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/visualization/index.html",
-      "/posts/photography/index.html",
-      "/posts/about/index.html"
+      "/docs/visualization/index.html",
+      "/docs/photography/index.html",
+      "/docs/about/index.html"
     ]
   },
   {
@@ -25,6 +25,18 @@
   },
   {
     "listing": "/posts/about/index.html",
+    "items": []
+  },
+  {
+    "listing": "/docs/visualization/index.html",
+    "items": []
+  },
+  {
+    "listing": "/docs/about/index.html",
+    "items": []
+  },
+  {
+    "listing": "/docs/photography/index.html",
     "items": []
   }
 ]
