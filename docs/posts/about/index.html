@@ -23,7 +23,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -100,7 +119,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -181,21 +200,25 @@ ul.task-list li input[type="checkbox"] {
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    </div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
-<p>I was born in Hayward, California, but have lived in neighboring Fremont for much of my life. As a kid, I was fascinated with riding the <a href="bart.gov">Bay Area Rapid Transit (BART)</a> system (and maybe becoming a train operator for it someday), computers, baseball, and becoming the President of the United States. Needless to say, none of them are as interesting now as they were in the past. However, one thing in common</p>
-<p>In my spare time, I like following the esports scene (especially for games like <em>Counter-Strike 2</em> or <em>VALORANT</em>), reading non-fiction books, and spending more money on pickleball rackets and balls, while my rating continues to stagnate at 3.5. At home, the stores I like to visit include IT’SUGAR, the Razer store, and Half-Price Books.</p>
+<p>I was born in Hayward, California, but have lived in neighboring Fremont for much of my life. As a kid, I was fascinated with riding the <a href="bart.gov">Bay Area Rapid Transit (BART)</a> system (and maybe becoming a train operator for it someday), computers, baseball, and becoming the President of the United States. Needless to say, none of them are as interesting now as they were in the past, for fairly amusing reasons.</p>
+<p>For much of my life, however I have always wanted to explore the history of everything I’m interested in, whether it’s the school I visit, the trains I ride to get there (thanks Amtrak!), or even video games that I’m interested in. My research interests stemmed from the questions I asked specifically about the United States Supreme Court: how did it define its own role in the United States government over time? Similarly, though I found out I was definitely not interested in becoming a computer engineer after I was fairly lost while reading <span class="citation" data-cites="patterson1994a">Patterson and Hennessy (<a href="#ref-patterson1994a" role="doc-biblioref">1994</a>)</span>, I was still excited to learn about the history of computers, and how political scientists and lawyers can still benefit from advances in computer technology. I was excited to find that political science is becoming more and more reliant on big data and statistical analysis. My early computer literacy has definitely paid off!</p>
+<p>In my spare time, I enjoy following the esports scene (especially for games like <em>Counter-Strike 2</em> or <em>VALORANT</em>), reading non-fiction books on the Supreme Court, political history, and , and spending more money on pickleball rackets and balls, while my rating continues to stagnate at 3.5. At home, the stores I like to visit include IT’SUGAR, for my candy fix; the Razer store, for when I forget that every professional video game player should be able to play well with any type of mouse and keyboard; and Half-Price Books, for more books on statistics, economics, and political science/law!</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="IMG_9837.jpeg" class="img-fluid figure-img" width="376"></p>
 <figcaption class="figure-caption">A picture of me in front of my favorite store.</figcaption>
 </figure>
 </div>
+
 
 
 
@@ -207,7 +230,11 @@ ul.task-list li input[type="checkbox"] {
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div></main> <!-- /main -->
+</div><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-patterson1994a" class="csl-entry" role="listitem">
+Patterson, David A., and John L. Hennessy. 1994. <em>Computer Organization and Design</em>. Elsevier. <a href="https://doi.org/10.1016/C2013-0-08305-3">https://doi.org/10.1016/C2013-0-08305-3</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

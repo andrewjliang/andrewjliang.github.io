@@ -25,6 +25,8 @@ listing:
   filter-ui: false
 page-layout: full
 title-block-banner: true
+margin-footer: |
+  a.j.l. 2024.
 ---
 
 ## Welcome to my website!

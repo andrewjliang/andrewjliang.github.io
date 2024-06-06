@@ -4,10 +4,27 @@ description: A collection of my photographs.
 author: Andrew Liang
 date: 6/5/2024
 categories: [hobbies, photography]
+lightbox:
+match: auto
+effect: fade
+desc-position: right
+loop: true
 ---
 
 I've also recently gotten into photography thanks to a high school digital photography course I took in my senior year. One of the unfortunate consequences of moving to UCSB is that I no longer have my own camera to use; nevertheless, Santa Barbara as a whole is extremely photogenic and I plan to take more pictures once I am able to obtain a new camera in the future.
 
 Here are some pictures I have taken, either outside of school or for my digital photography course:
 
-![A half-botched strawberry matcha latte that I made for myself.](IMG_9520.jpeg){width="420"}
+## At UCSB
+
+![A half-botched strawberry matcha latte that I made for myself.](IMG_9520.jpeg){group="photos" fig-align="left" width="532"}
+
+## At Home
+
+::: {layout="[[1, 1], [1]]"}
+![*School Rose*](IMG_4755.JPG){width="533" group="Back at Home" description="The waves break off the coast of Aquinnah on a beautiful summer day."}
+
+![*Unripe Tomato*](IMG_4738.JPG){width="589" group="Back at Home" description="A massive, unripe tomato that eventually fell to a swarm of bugs."}
+
+![*Pepper Rain*](cachedImage_png.JPG){group="Back at Home" description="Courtesy of my mom, these bell peppers were watered and eventually picked as part of my mother's fall harvest!" fig-align="left" width="690"}
+:::

@@ -15,9 +15,8 @@ format:
   html:
     theme: minty2.scss
     css: styles.css
-
+toc: true
 listing:
   contents: "posts/*/index.qmd"
-
 
 
