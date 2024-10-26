@@ -2,10 +2,9 @@
 title: "andrewjliang.github.io"
 ---
 
-This is a Quarto website.
+Welcome!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a Political Science major at the University of California, Santa Barbara. My current interests are in American politics, elections, judicial politics, and political methodology. 
 
-```{r}
-1 + 1
-```
+I am currently working on projects relating to electoral districts and social structures within the United States, polling place locations, and the overruling of precedent on the U.S. Supreme Court.
+
