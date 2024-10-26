@@ -1,0 +1,19 @@
+---
+title: "Curriculum Vitae"
+format:
+  html:
+    toc: true
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Education
+
+-   B.A. in Political Science, University of California, Santa Barbara,
+    exp. 2027
+
+# Research Interests
+
+American political institutions, election administration, judicial
+politics, political methodology
