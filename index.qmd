@@ -1,5 +1,10 @@
 ---
 title: "Andrew J. Liang"
+toc: false
+page-layout: full
+title-block-banner: true
+footer: |
+  a.j.l. 2024.
 ---
 
 Welcome!

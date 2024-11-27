@@ -3,17 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "andrewjliang.github.io"
+  title: "a.j.l."
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
       - CV.qmd
-
 format:
   html:
-    theme: yeti
+    theme: bunyan.scss
     css: styles.css
     toc: true
     page-layout: full

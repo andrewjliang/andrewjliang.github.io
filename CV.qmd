@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae"
+title: "CV"
 format:
   html:
     toc: true
@@ -8,12 +8,46 @@ editor:
     wrap: 72
 ---
 
-# Education
+A full-length copy of my CV can be found here.
+
+## Education
 
 -   B.A. in Political Science, University of California, Santa Barbara,
     exp. 2027
 
-# Research Interests
+## Research Interests
 
-American political institutions, election administration, judicial
+American political institutions, voting and elections, judicial
 politics, political methodology
+
+## Experience
+
+#### Research Assistant
+
+***Nall Research Group (Prof. Clayton Nall)*** [Nov. 2024 -
+Present]{.cvdate}
+
+-   Performed data entry, data cleaning, and basic spreadsheet and
+    statistical analyses for project regarding doctoral student outcomes
+    in political science.
+
+***Prof. Heather Stoll*** [Aug. 2024 - Present]{.cvdate}
+
+-   Investigating relationship between social structures and electoral
+    districts across Ireland, Spain, and the United States.
+-   Obtaining and preparing demographic census data in electoral
+    districts from legislatures across multiple states.
+-   Summarizing, interpreting, and visualizing statistical analyses in R
+    using ggplot and similar packages.
+
+***Joseph Loffredo (MIT)*** [Aug. 2024 - Present]{.cvdate}
+
+-   Obtaining, cleaning, and wrangling electoral data from government
+    sources for further analysis.
+-   Verifying and correcting existing data on polling place locations
+    across the United States.
+
+***Daniel Gamarnik, War and Revisionist Rebels Project*** [Jun. 2024 -
+Oct. 2024]{.cvdate}
+
+***Dr. Eric Stein*** [Apr. 2024 - Jun. 2024]{.cvdate}

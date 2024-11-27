@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Coming soon!"
   },
   {
     "objectID": "index.html",
@@ -16,8 +16,29 @@
   {
     "objectID": "CV.html",
     "href": "CV.html",
-    "title": "Curriculum Vitae",
+    "title": "CV",
     "section": "",
-    "text": "Education\n\nB.A. in Political Science, University of California, Santa Barbara, exp. 2027\n\n\n\nResearch Interests\nAmerican political institutions, election administration, judicial politics, political methodology"
+    "text": "A full-length copy of my CV can be found here."
+  },
+  {
+    "objectID": "CV.html#education",
+    "href": "CV.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nB.A. in Political Science, University of California, Santa Barbara, exp. 2027"
+  },
+  {
+    "objectID": "CV.html#research-interests",
+    "href": "CV.html#research-interests",
+    "title": "CV",
+    "section": "Research Interests",
+    "text": "Research Interests\nAmerican political institutions, voting and elections, judicial politics, political methodology"
+  },
+  {
+    "objectID": "CV.html#experience",
+    "href": "CV.html#experience",
+    "title": "CV",
+    "section": "Experience",
+    "text": "Experience\n\nResearch Assistant\nNall Research Group (Prof. Clayton Nall) Nov. 2024 - Present\n\nPerformed data entry, data cleaning, and basic spreadsheet and statistical analyses for project regarding doctoral student outcomes in political science.\n\nProf. Heather Stoll Aug. 2024 - Present\n\nInvestigating relationship between social structures and electoral districts across Ireland, Spain, and the United States.\nObtaining and preparing demographic census data in electoral districts from legislatures across multiple states.\nSummarizing, interpreting, and visualizing statistical analyses in R using ggplot and similar packages.\n\nJoseph Loffredo (MIT) Aug. 2024 - Present\n\nObtaining, cleaning, and wrangling electoral data from government sources for further analysis.\nVerifying and correcting existing data on polling place locations across the United States.\n\nDaniel Gamarnik, War and Revisionist Rebels Project Jun. 2024 - Oct. 2024\nDr. Eric Stein Apr. 2024 - Jun. 2024"
   }
 ]
