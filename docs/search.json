@@ -40,5 +40,12 @@
     "title": "CV",
     "section": "Experience",
     "text": "Experience\n\nResearch Assistant\nNall Research Group (Prof. Clayton Nall) Nov. 2024 - Present\n\nPerformed data entry, data cleaning, and basic spreadsheet and statistical analyses for project regarding doctoral student outcomes in political science.\n\nProf. Heather Stoll Aug. 2024 - Present\n\nInvestigating relationship between social structures and electoral districts across Ireland, Spain, and the United States.\nObtaining and preparing demographic census data in electoral districts from legislatures across multiple states.\nSummarizing, interpreting, and visualizing statistical analyses in R using ggplot and similar packages.\n\nJoseph Loffredo (MIT) Aug. 2024 - Present\n\nObtaining, cleaning, and wrangling electoral data from government sources for further analysis.\nVerifying and correcting existing data on polling place locations across the United States.\n\nDaniel Gamarnik, War and Revisionist Rebels Project Jun. 2024 - Oct. 2024\nDr. Eric Stein Apr. 2024 - Jun. 2024"
+  },
+  {
+    "objectID": "CV.html#skills",
+    "href": "CV.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming Languages\n\nR, Julia, Python\n\n\n\nSoftware\n\n\\(\\LaTeX\\), Git, Stata\n\n\n\nLanguages\n\nEnglish, Mandarin, Cantonese"
   }
 ]
